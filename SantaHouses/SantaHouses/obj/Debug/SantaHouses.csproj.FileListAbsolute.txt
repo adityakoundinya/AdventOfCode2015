@@ -1,0 +1,6 @@
+C:\Morningstar\SantaHouses\SantaHouses\bin\Debug\SantaHouses.exe.config
+C:\Morningstar\SantaHouses\SantaHouses\bin\Debug\SantaHouses.exe
+C:\Morningstar\SantaHouses\SantaHouses\bin\Debug\SantaHouses.pdb
+C:\Morningstar\SantaHouses\SantaHouses\obj\Debug\SantaHouses.csprojResolveAssemblyReference.cache
+C:\Morningstar\SantaHouses\SantaHouses\obj\Debug\SantaHouses.exe
+C:\Morningstar\SantaHouses\SantaHouses\obj\Debug\SantaHouses.pdb

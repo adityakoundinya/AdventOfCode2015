@@ -1,0 +1,6 @@
+C:\Morningstar\SantaLights\SantaLights\bin\Debug\SantaLights.exe.config
+C:\Morningstar\SantaLights\SantaLights\bin\Debug\SantaLights.exe
+C:\Morningstar\SantaLights\SantaLights\bin\Debug\SantaLights.pdb
+C:\Morningstar\SantaLights\SantaLights\obj\Debug\SantaLights.csprojResolveAssemblyReference.cache
+C:\Morningstar\SantaLights\SantaLights\obj\Debug\SantaLights.exe
+C:\Morningstar\SantaLights\SantaLights\obj\Debug\SantaLights.pdb
