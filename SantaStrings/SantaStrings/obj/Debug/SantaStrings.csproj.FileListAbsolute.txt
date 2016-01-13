@@ -1,6 +1,0 @@
-C:\Morningstar\SantaStrings\SantaStrings\bin\Debug\SantaStrings.exe.config
-C:\Morningstar\SantaStrings\SantaStrings\bin\Debug\SantaStrings.exe
-C:\Morningstar\SantaStrings\SantaStrings\bin\Debug\SantaStrings.pdb
-C:\Morningstar\SantaStrings\SantaStrings\obj\Debug\SantaStrings.exe
-C:\Morningstar\SantaStrings\SantaStrings\obj\Debug\SantaStrings.pdb
-C:\Morningstar\SantaStrings\SantaStrings\obj\Debug\SantaStrings.csprojResolveAssemblyReference.cache

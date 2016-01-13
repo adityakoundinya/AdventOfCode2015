@@ -1,6 +1,0 @@
-C:\Morningstar\SantaFloor\SantaFloor\bin\Debug\SantaFloor.exe.config
-C:\Morningstar\SantaFloor\SantaFloor\bin\Debug\SantaFloor.exe
-C:\Morningstar\SantaFloor\SantaFloor\bin\Debug\SantaFloor.pdb
-C:\Morningstar\SantaFloor\SantaFloor\obj\Debug\SantaFloor.csprojResolveAssemblyReference.cache
-C:\Morningstar\SantaFloor\SantaFloor\obj\Debug\SantaFloor.exe
-C:\Morningstar\SantaFloor\SantaFloor\obj\Debug\SantaFloor.pdb

@@ -1,6 +1,0 @@
-C:\Morningstar\SantaWrappingPaper\SantaWrappingPaper\bin\Debug\SantaWrappingPaper.exe.config
-C:\Morningstar\SantaWrappingPaper\SantaWrappingPaper\bin\Debug\SantaWrappingPaper.exe
-C:\Morningstar\SantaWrappingPaper\SantaWrappingPaper\bin\Debug\SantaWrappingPaper.pdb
-C:\Morningstar\SantaWrappingPaper\SantaWrappingPaper\obj\Debug\SantaWrappingPaper.csprojResolveAssemblyReference.cache
-C:\Morningstar\SantaWrappingPaper\SantaWrappingPaper\obj\Debug\SantaWrappingPaper.exe
-C:\Morningstar\SantaWrappingPaper\SantaWrappingPaper\obj\Debug\SantaWrappingPaper.pdb

@@ -1,6 +1,0 @@
-C:\Morningstar\SantaCircuit\SantaCircuit\bin\Debug\day7.txt
-C:\Morningstar\SantaCircuit\SantaCircuit\bin\Debug\SantaCircuit.exe.config
-C:\Morningstar\SantaCircuit\SantaCircuit\bin\Debug\SantaCircuit.exe
-C:\Morningstar\SantaCircuit\SantaCircuit\bin\Debug\SantaCircuit.pdb
-C:\Morningstar\SantaCircuit\SantaCircuit\obj\Debug\SantaCircuit.exe
-C:\Morningstar\SantaCircuit\SantaCircuit\obj\Debug\SantaCircuit.pdb

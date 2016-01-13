@@ -1,5 +1,0 @@
-C:\Morningstar\SantaCoins\SantaCoins\bin\Debug\SantaCoins.exe.config
-C:\Morningstar\SantaCoins\SantaCoins\bin\Debug\SantaCoins.exe
-C:\Morningstar\SantaCoins\SantaCoins\bin\Debug\SantaCoins.pdb
-C:\Morningstar\SantaCoins\SantaCoins\obj\Debug\SantaCoins.exe
-C:\Morningstar\SantaCoins\SantaCoins\obj\Debug\SantaCoins.pdb
